@@ -8,17 +8,23 @@ Aspiring **Backend Developer** and **DevOps Enthusiast** with a passion for buil
 
 ### 🧠 Skills
 
-- **Backend Development:** Python, Django, Django REST Framework
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **API Design:** RESTful architecture, JWT authentication
-- **DevOps Tools:** Docker, CI/CD, Vercel, GitHub Actions
-- **Additional Skills:** SQL, HTML, CSS, JavaScript, React
+-   **Backend Development:** Python, Django, Django REST Framework
+    
+-   **Databases:** PostgreSQL, MySQL, SQLite
+    
+-   **API Design:** RESTful architecture, JWT authentication
+    
+-   **DevOps Tools:** Docker, Kubernetes, Nginx, GitHub Actions, CI/CD Pipelines, Vercel, Render, Railway, Linux Server Management, Git
+    
+-   **Cloud & Deployment:** AWS (EC2, S3), Cloudflare, Docker Compose
+    
+-   **Additional Skills:** SQL, HTML, CSS, JavaScript, React
 
 ---
 
-### 💼 Featured Projects
+## ⚙️ API-Based Full‑Stack Projects (DRF + React)
 
-#### 🍽️ [ByteFeast Restaurant](https://byte-feast-react-w8qi.vercel.app/)
+#### 🍽️ [ByteFeast Restaurant](https://byte-feast-react-w8qi.vercel.app/) (Payment Gateway Integrated)
 
 - **[Frontend (Live Demo)](https://byte-feast-react-w8qi.vercel.app/)** | **[Base API](https://byte-feast-resturant-django-rest-ap.vercel.app/api/v1/)** | **[Swagger Docs](https://byte-feast-resturant-django-rest-ap.vercel.app/swagger/)**
 - **GitHub:** frontend: [Mahmud-Hasan2024/ByteFeast_frontend](https://github.com/Mahmud-Hasan2024/ByteFeast_frontend) | backend: [Mahmud-Hasan2024/ByteFeast-backend](https://github.com/Mahmud-Hasan2024/ByteFeast-backend)
@@ -27,14 +33,16 @@ Aspiring **Backend Developer** and **DevOps Enthusiast** with a passion for buil
 
 ---
 
-#### 💼 [Talent Bridge Job Portal](https://talent-bridge.vercel.app/)
+#### 💼 [Talent Bridge Job Portal](https://talent-bridge.vercel.app/) (Payment Gateway Integrated)
 
-- **[Frontend (Live Demo)](https://talent-bridge.vercel.app/)** | **[Base API](https://talent-bridge-api.vercel.app/api/v1/)** | **[Swagger Docs](https://talent-bridge-api.vercel.app/swagger/)**
+- **[Frontend (Live Demo)](https://talent-bridge-frontend-psi.vercel.app/)** | **[Base API](https://talent-bridge-api.vercel.app/api/v1/)** | **[Swagger Docs](https://talent-bridge-api.vercel.app/swagger/)**
 - **GitHub:** frontend: [Mahmud-Hasan2024/Talent-Bridge-Frontend](https://github.com/Mahmud-Hasan2024/Talent-Bridge-Frontend) | backend: [Mahmud-Hasan2024/talent-bridge-backend](https://github.com/Mahmud-Hasan2024/talent-bridge-backend)
 - **Tech Stack:** Django REST Framework, React, PostgreSQL
 - **Description:** A job portal platform connecting job seekers and employers with secure API-based communication.
 
 ---
+
+## 🎨 Django Template-Based Projects (Server‑Rendered Websites)
 
 #### 🎉 [NUB Event Management System](https://event-management-9y10.onrender.com)
 
