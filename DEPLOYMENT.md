@@ -14,11 +14,10 @@
 
 ## 👤 Demo Accounts
 
-| Role       | Email                     | Password   |
-| ---------- | ------------------------- | ---------- |
-| Admin      | `admin@gmail.com`         | `kgb12345` |
-| Employer   | `fojibo8094@aravites.com` | `kgb12345` |
-| Job Seeker | `doveb99651@besaies.com`  | `kgb12345` |
+| Role     | Email                    | Password   |
+| -------- | ------------------------ | ---------- |
+| Admin    | `admin@gmail.com`        | `kgb12345` |
+| Customer | `doveb99651@besaies.com` | `kgb12345` |
 
 Use these credentials to log in and explore the API in Swagger or Postman.
 

@@ -14,6 +14,17 @@
 
 ---
 
+## 👤 Demo Accounts
+
+| Role     | Email                    | Password   |
+| -------- | ------------------------ | ---------- |
+| Admin    | `admin@gmail.com`        | `kgb12345` |
+| Customer | `doveb99651@besaies.com` | `kgb12345` |
+
+Use these credentials to log in and explore the API in Swagger or Postman.
+
+---
+
 ## Table of Contents
 
 - [Features](#features)
