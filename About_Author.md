@@ -4,6 +4,10 @@
 
 Aspiring **Backend Developer** and **DevOps Enthusiast** with a passion for building secure, efficient, and scalable backend systems.
 
+- 🌐 **Portfolio:** https://mahamud-hasan.onrender.com  
+- 🐙 **GitHub:** https://github.com/Mahmud-Hasan2024  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/mahmud-hasan-2a19892a6/
+
 ---
 
 ### 🧠 Skills
@@ -27,15 +31,6 @@ Aspiring **Backend Developer** and **DevOps Enthusiast** with a passion for buil
 
 ---
 
-#### 💼 [Talent Bridge Job Portal](https://talent-bridge.vercel.app/)
-
-- **[Frontend (Live Demo)](https://talent-bridge.vercel.app/)** | **[Base API](https://talent-bridge-api.vercel.app/api/v1/)** | **[Swagger Docs](https://talent-bridge-api.vercel.app/swagger/)**
-- **GitHub:** frontend: [Mahmud-Hasan2024/Talent-Bridge-Frontend](https://github.com/Mahmud-Hasan2024/Talent-Bridge-Frontend) | backend: [Mahmud-Hasan2024/talent-bridge-backend](https://github.com/Mahmud-Hasan2024/talent-bridge-backend)
-- **Tech Stack:** Django REST Framework, React, PostgreSQL
-- **Description:** A job portal platform connecting job seekers and employers with secure API-based communication.
-
----
-
 #### 🎉 [NUB Event Management System](https://event-management-9y10.onrender.com)
 
 - **Live Site:** [event-management-9y10.onrender.com](https://event-management-9y10.onrender.com) |
@@ -45,12 +40,24 @@ Aspiring **Backend Developer** and **DevOps Enthusiast** with a passion for buil
 
 ---
 
+#### 💼 [Talent Bridge Job Portal](https://talent-bridge.vercel.app/)
+
+- **[Frontend (Live Demo)](https://talent-bridge.vercel.app/)** | **[Base API](https://talent-bridge-api.vercel.app/api/v1/)** | **[Swagger Docs](https://talent-bridge-api.vercel.app/swagger/)**
+- **GitHub:** frontend: [Mahmud-Hasan2024/Talent-Bridge-Frontend](https://github.com/Mahmud-Hasan2024/Talent-Bridge-Frontend) | backend: [Mahmud-Hasan2024/talent-bridge-backend](https://github.com/Mahmud-Hasan2024/talent-bridge-backend)
+- **Tech Stack:** Django REST Framework, React, PostgreSQL
+- **Description:** A job portal platform connecting job seekers and employers with secure API-based communication.
+
+---
+
+
 #### 📰 [The Daily Dispatch News Portal](https://the-daily-dispatch-fkkp.onrender.com)
 
 - **Live Site:** [the-daily-dispatch-fkkp.onrender.com](https://the-daily-dispatch-fkkp.onrender.com)
 - **GitHub:** [Mahmud-Hasan2024/The-Daily-Dispatch](https://github.com/Mahmud-Hasan2024/The-Daily-Dispatch)
 - **Tech Stack:** Django, TailwindCSS, PostgreSQL
 - **Description:** A full-featured online news portal with admin control, article management, and authentication.
+
+---
 
 #### 🧠 [AI Complaint System](https://ai-complaint-system-p1ox.onrender.com/login/?next=/)
 
@@ -78,5 +85,6 @@ Aspiring **Backend Developer** and **DevOps Enthusiast** with a passion for buil
 
 ### 🌐 Connect with Me
 
-- [GitHub](https://github.com/Mahmud-Hasan2024)
-- [LinkedIn](https://www.linkedin.com/in/mahmud-hasan-2a19892a6/)
+- 🌐 **Portfolio:** https://mahamud-hasan.onrender.com  
+- 🐙 **GitHub:** https://github.com/Mahmud-Hasan2024  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/mahmud-hasan-2a19892a6/

@@ -1,4 +1,4 @@
-# ByteFeast
+# 🍽️ ByteFeast Restaurant
 
 **ByteFeast** is a Django RESTful API project for a restaurant-style food ordering platform. It provides endpoints for menu categories, food items, shopping cart, orders, reviews, and admin analytics.
 
@@ -48,7 +48,7 @@ Use these credentials to log in and explore the API in Swagger or Postman.
 
 ---
 
-## Features
+## 🌟 Features
 
 - **Menu Management**: Categories & FoodItems with filtering, searching, pagination, and special pricing.
 - **Shopping Cart**: One cart per user; add, update, and remove items.
@@ -59,7 +59,7 @@ Use these credentials to log in and explore the API in Swagger or Postman.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 - Python 3.13
 - Django 5.1.5
