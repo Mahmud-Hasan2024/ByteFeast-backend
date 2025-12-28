@@ -50,9 +50,9 @@ Aspiring **Backend Developer** and **DevOps Enthusiast** with a passion for buil
 ---
 
 
-#### 📰 [The Daily Dispatch News Portal](https://the-daily-dispatch-fkkp.onrender.com)
+#### 📰 [The Daily Dispatch News Portal](https://the-daily-dispatch-uvb3.onrender.com/)
 
-- **Live Site:** [the-daily-dispatch-fkkp.onrender.com](https://the-daily-dispatch-fkkp.onrender.com)
+- **Live Site:** [the-daily-dispatch-fkkp.onrender.com](https://the-daily-dispatch-uvb3.onrender.com/)
 - **GitHub:** [Mahmud-Hasan2024/The-Daily-Dispatch](https://github.com/Mahmud-Hasan2024/The-Daily-Dispatch)
 - **Tech Stack:** Django, TailwindCSS, PostgreSQL
 - **Description:** A full-featured online news portal with admin control, article management, and authentication.
